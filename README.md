@@ -15,7 +15,7 @@ O sistema permite:
 
 ## Estrutura de Classes
 
-![Diagrama UML](diagrama_UML.png)
+![Diagrama UML](diagrama-UML.png)
 
 
 As principais entidades do sistema são:
