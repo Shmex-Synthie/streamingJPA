@@ -17,7 +17,6 @@ O sistema permite:
 
 ![Diagrama UML](diagrama_UML.png)
 
-> Substitua `caminho/para/diagrama.png` pelo caminho correto da imagem exportada do PlantUML.
 
 As principais entidades do sistema são:
 - **Usuario**: representa um usuário do sistema.
